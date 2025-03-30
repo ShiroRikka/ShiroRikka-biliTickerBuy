@@ -47,6 +47,13 @@
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/ShiroRikka">
+                    <img src="https://avatars.githubusercontent.com/u/94972433?v=4" width="100;" alt="ShiroRikka"/>
+                    <br />
+                    <sub><b>ShiroRikka</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/mikumifa">
                     <img src="https://avatars.githubusercontent.com/u/99951454?v=4" width="100;" alt="mikumifa"/>
                     <br />
@@ -81,6 +88,8 @@
                     <sub><b>HowarLi</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/xmbhjQAQ">
                     <img src="https://avatars.githubusercontent.com/u/72352414?v=4" width="100;" alt="xmbhjQAQ"/>
@@ -88,8 +97,6 @@
                     <sub><b>xmbhjQAQ</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/FlipWind">
                     <img src="https://avatars.githubusercontent.com/u/89458091?v=4" width="100;" alt="FlipWind"/>
@@ -125,6 +132,8 @@
                     <sub><b>CinnabarCHU</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/shirok1">
                     <img src="https://avatars.githubusercontent.com/u/12044683?v=4" width="100;" alt="shirok1"/>
@@ -132,8 +141,6 @@
                     <sub><b>Shiroki Satsuki</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/codycjy">
                     <img src="https://avatars.githubusercontent.com/u/64593412?v=4" width="100;" alt="codycjy"/>
