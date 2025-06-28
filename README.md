@@ -2,7 +2,7 @@
   <a href="https://github.com/mikumifa/biliTickerBuy" target="_blank">
     <img width="160" src="assets/icon.ico" alt="logo">
   </a>
-  <h2 id="koishi">biliTickerBuy</h1>
+  <h1 id="koishi">biliTickerBuy</h1>
 
 <p>
   <!-- GitHub Downloads -->
