@@ -49,7 +49,7 @@ jobs:
     # 步骤 3：根据同步输出变量“has_new_commits”显示示例消息
     - name: New commits found
       if: steps.sync.outputs.has_new_commits == 'true'
-      run: echo "New commits were found to sync."
+      run: echo "✨New commits were found to sync."
     
     - name: No new commits
       if: steps.sync.outputs.has_new_commits == 'false'
